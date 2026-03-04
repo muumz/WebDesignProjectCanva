@@ -1,5 +1,5 @@
 # 🏨 Hotel Website Design
-## 📌 Project Overview
+
 
 This project is a hotel website designed using Canva, following modern web design layout principles and usability guidelines.
 
